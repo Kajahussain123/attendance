@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+
+}
+.side-bar{
+  height: 100%;
+  width: 50px;
+  background-color: aqua;
+  border: 2px;
+}
